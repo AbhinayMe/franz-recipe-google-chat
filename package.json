@@ -1,0 +1,13 @@
+{
+  "id": "googlechat",
+  "name": "google-chat",
+  "version": "1.0.0",
+  "description": "Google Chat",
+  "main": "index.js",
+  "author": "Abhinay Me <i@abhinay.me>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://chat.google.com",
+    "hasNotificationSound": true
+  }
+}
